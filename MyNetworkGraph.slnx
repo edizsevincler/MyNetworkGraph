@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Çözüm Öğeleri/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="MyNetworkGraph/MyNetworkGraph.csproj" />
+</Solution>
