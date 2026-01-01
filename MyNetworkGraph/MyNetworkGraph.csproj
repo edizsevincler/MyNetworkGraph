@@ -9,9 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Core\Graph\" />
-    <Folder Include="Core\IO\" />
-    <Folder Include="Core\Model\" />
     <Folder Include="Core\Util\" />
   </ItemGroup>
 
